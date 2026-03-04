@@ -10,8 +10,7 @@
     "test:watch": "vitest",
     "package-extensions": "node src/package-extensions.js",
     "sort-extensions": "node src/sort-extensions.js",
-    "danger": "danger",
-    "preinstall": "node preinstall.js"
+    "danger": "danger"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "3.962.0",
